@@ -1,0 +1,67 @@
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>WAF/2.4-12.1</center>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+    <title>成绩查询</title>
+</head>
+<body>
+	<!--定义�?个student类存储学生信�?  -->
+	
+	<!-- 建立�?个以student对象为元素的列表 -->
+	
+	
+    <form method="post" action="" style="font-size: 15px" name = "myForm">
+        姓名�?<select name="sname">
+	  		<option value ="何文�?">何文�?</option>
+	  		<option value ="李强">李强</option>
+	  		<option value="雷发�?">雷发�?</option>
+	  		<option value="黄凯">黄凯</option>
+		</select>
+        课程�?<select name="lecture">
+	  		<option value ="软件工程">软件工程</option>
+	  		<option value ="数据库原�?">数据库原�?</option>
+	  		<option value="大型数据�?">大型数据�?</option>
+	  		<option value="数据结构">数据结构</option>
+	  		<option value="java">java</option>
+		</select>
+        <input type="submit" value="查询">
+    </form>
+    <p></p>
+    
+    
+        
+    <table border="1" style="font-size: 15px">
+    	<tr>
+	     	<td style="width: 100px;text-align: center">学号</td>
+	        <td style="text-align: center">姓名</td>
+	        <td style="text-align: center">课程</td>
+	        <td>成绩</td>
+    	</tr>
+    	  	
+    
+    	
+        
+    </table>
+</body>
+</html>
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
